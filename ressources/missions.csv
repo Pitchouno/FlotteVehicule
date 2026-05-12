@@ -1,0 +1,6 @@
+id,depart,destination,dateDepart,distanceKm,type,statut,vehiculeId,chauffeurId,coutPeage
+M0001,Paris,Lyon,2026-05-10T08:00,465,Courte,TERMINEE,AA-001-BB,C001,0
+M0002,Lyon,Marseille,2026-05-11T09:00,315,Courte,TERMINEE,BB-002-CC,C002,0
+M0003,Paris,Bordeaux,2026-05-12T07:00,580,Longue,EN_COURS,CC-003-DD,C003,45.0
+M0004,Bordeaux,Strasbourg,2026-05-13T06:00,850,Longue,EN_ATTENTE,,, 80.0
+M0005,Paris,Rouen,2026-05-14T10:00,135,Courte,EN_ATTENTE,,,0

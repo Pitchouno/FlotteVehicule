@@ -1,0 +1,7 @@
+immatriculation,marque,modele,annee,type,kilometrage,disponible,prochainEntretien
+AA-001-BB,Renault,Clio,2021,Leger,45000,true,2025-12-01
+BB-002-CC,Peugeot,208,2020,Leger,32000,true,2025-11-15
+CC-003-DD,Mercedes,Actros,2019,Lourd,120000,true,2025-10-01
+DD-004-EE,Volvo,FH16,2022,Lourd,87000,true,2026-03-01
+EE-005-FF,Ford,Transit,2021,Special,23000,true,2026-01-15
+FF-006-GG,Iveco,Daily,2020,Special,41000,true,2025-09-01

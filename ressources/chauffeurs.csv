@@ -1,0 +1,6 @@
+id,nom,prenom,numeroPermis,categoriePermis,disponible
+C001,Dupont,Jean,P-123456,B,true
+C002,Martin,Sophie,P-234567,B,true
+C003,Bernard,Michel,P-345678,CE,true
+C004,Leroy,Claire,P-456789,C,true
+C005,Moreau,Antoine,P-567890,CE,true
