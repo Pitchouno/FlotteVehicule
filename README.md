@@ -1,7 +1,7 @@
 # Gestionnaire de Flotte Automobile
 
 ## Groupe
-*(À compléter : Prénom NOM, Prénom NOM, Prénom NOM)*
+PHILIPPE Mathis ALVES Alexandre
 
 ## Domaine métier
 Application de gestion d'une flotte automobile : véhicules légers, lourds et spéciaux,
@@ -60,9 +60,7 @@ Si aucun fichier n'existe, l'application démarre vide (utiliser Données → Ch
 | 4 vues Swing | `view/` |
 
 ## Répartition des tâches
-*(À compléter selon votre organisation)*
 | Membre | Tâches |
 |---|---|
-| Prénom 1 | Interfaces, classes abstraites, enums |
-| Prénom 2 | Classes concrètes, Registre, FlotteController |
-| Prénom 3 | Vues Swing, CsvUtil, README |
+| Alexandre | Interfaces, classes abstraites, enums, Classes concrètes |
+| Mathis | Registre, FlotteController, Vues Swing, CsvUtil, README|
